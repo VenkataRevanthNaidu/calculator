@@ -1,0 +1,131 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Mallanna', sans-serif;
+}
+p{
+  line-height: 2;
+}
+h1{
+  margin:50px auto 0 auto;
+  font-size: 4.5em;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+h2{
+font-family: 'Mallanna', sans-serif;
+color: #66BFBF;
+font-size: 2em;
+font-weight: normal;
+}
+h3{
+font-family: 'Mallanna', sans-serif;
+color:  #11999E;
+}
+a{
+  color:  #11999E;
+}
+.top-container{
+  background-color: whitesmoke;
+  position: relative;
+  padding: 75px;
+  padding-bottom: 0;
+}
+.middle-container{
+}
+
+.bottom-container{
+  background-color: skyblue;
+  padding: 30px 0 25px;
+
+}
+.into{
+  width: 450px;
+  margin: auto;
+}
+hr{
+  border-style:dotted;
+  border-bottom: none;
+  border-color: gray;
+  border-width: 5px;
+  width: 5%;
+}
+.top-cloud{
+position: absolute;
+right: 200px;
+top: 25px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 350px;
+  left: 50px;
+}
+.mountain{
+margin-bottom: 0;
+}
+.profile{
+  margin:50px;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chillies{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me{
+  margin: 50px auto 25px auto;
+  text-align: center;
+}
+.cot{
+  width: 450px;
+  margin: auto;
+}
+.btnam{
+  color: white;
+}
+.footer-link{
+  text-decoration: none;
+  margin: 20px;
+  width: 350px;
+  color: #11999E;
+}
+.footer-link:hover{
+  color: white;
+}
+.btn {
+  line-height: 5;
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4,  #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4,  #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Mallanna', sans-serif;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 7px 12px 7px 12px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
